@@ -11,4 +11,4 @@ Solana Wallet Address: `KoqQCqxD2ca1St64U4Sc3tBnNfXo6761dETUK4dSpDt`
 ## Contact
 For any business inquiries or support, please reach out to us:
 - Discord: `kokiez4000`
-
+- Telegram: `kokiez4000`
