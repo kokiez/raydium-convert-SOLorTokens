@@ -2,7 +2,6 @@
 The script will do the following conversions:
   1. convert SOL to Tokens
   2. Convert Tokens to SOL
-  3. 
 
 ## Donations
 If you find the Solana Sniper useful, consider making a donation to support its development and maintenance. Your contribution will help us continue to improve the tool and add new features.
