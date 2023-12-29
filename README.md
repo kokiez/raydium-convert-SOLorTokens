@@ -1,2 +1,4 @@
-# raydium-compute-price
-This is a simple script in python on how to compute token price in SOL based on the amount of token you have in your wallet for a given mint address.
+# Raydium Compute Tokens or SOL
+The script will do the following conversions:
+  1. convert SOL to Tokens
+  2. Convert Tokens to SOL
