@@ -1,3 +1,7 @@
+# This is not solana swap.
+Have you seen tokenAmountIn and tokenAmountOut. This script will calculate those amounts.
+
+
 # Raydium Compute Tokens or SOL
 The script will do the following conversions:
   1. Convert SOL to Tokens
