@@ -3,14 +3,12 @@ Have you seen tokenAmountIn and tokenAmountOut in txns? This script will calcula
 You can extract the solana swap from my solana-sniper project. [Click me](https://github.com/kokiez/solana-sniper/tree/main/raydium)
 
 # Raydium Compute Tokens or SOL
-The script will do the following conversions:
-  1. Convert SOL to Tokens
-  2. Convert Tokens to SOL
+The script will approximate the following:
+  1. Approximate SOL to Tokens
+  2. Approximate Tokens to SOL
 
-## Donations
-If you find this script useful, consider making a donation.
+It is same as getting price from birdeye or dexscreener vs approximating directly how much your invested sol is worth now.
 
-Solana Wallet Address: `KoqQCqxD2ca1St64U4Sc3tBnNfXo6761dETUK4dSpDt`
 
 ## Contact
 For any business inquiries or support, please reach out to us:
